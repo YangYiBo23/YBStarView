@@ -1,0 +1,27 @@
+{
+  "name": "YBStarView",
+  "version": "0.1.0",
+  "summary": "A short description of YBStarView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yyb/YBStarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yyb": "yangyibo93@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yyb/YBStarView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YBStarView/Classes/**/*",
+  "resource_bundles": {
+    "YBStarView": [
+      "YBStarView/Assets/*.png"
+    ]
+  }
+}

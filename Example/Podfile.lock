@@ -1,0 +1,16 @@
+PODS:
+  - YBStarView (0.1.0)
+
+DEPENDENCIES:
+  - YBStarView (from `../`)
+
+EXTERNAL SOURCES:
+  YBStarView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBStarView: d5b2d45a2513e2e49c2b41136fb4c2580f8da939
+
+PODFILE CHECKSUM: 15c497e7b0bc7f779320328e27e69973b9c7e3c5
+
+COCOAPODS: 1.7.3
