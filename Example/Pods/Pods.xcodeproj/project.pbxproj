@@ -8,19 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		0B745D7AA5DC791E0F649917A0ED6165 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		14829B9AB0E9A15D53F88A14D709F333 /* YBStarView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F3F8EAFBA165F19A6F2D1ACEE48182 /* YBStarView-dummy.m */; };
-		26FE8A82E12C6517AB0867D18D17610A /* YBStarView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C0BECD4847D6C95A66B51907BF10693D /* YBStarView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		14829B9AB0E9A15D53F88A14D709F333 /* YBStarView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA438B5EAF8001E3FCBCC3DDB6907F4 /* YBStarView-dummy.m */; };
+		26FE8A82E12C6517AB0867D18D17610A /* YBStarView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B40D627B430456EA18A9BA38D8E0C088 /* YBStarView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2B3B588D933CF5B343B0D6FD995649BF /* Pods-YBStarView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D43F7E44CF693B702FF2309F33AC53CC /* Pods-YBStarView_Tests-dummy.m */; };
 		32FB48F4E55760133F7A84FE655D4FF5 /* Pods-YBStarView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F527E885532A44F701267BE8923FC153 /* Pods-YBStarView_Example-dummy.m */; };
-		35E104808644C0C2F65DC7CE5AD9A1CF /* icon_yb_star_yellow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 44F5F15B817363E4CDF076C84BBE5363 /* icon_yb_star_yellow@3x.png */; };
+		35E104808644C0C2F65DC7CE5AD9A1CF /* icon_yb_star_yellow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9456031A11C7E367F2109C2F51C090DE /* icon_yb_star_yellow@3x.png */; };
 		396CE556442BDB68E443DD69E19362D1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		478E3D6FFE11A24864AC74EAB9FB86D2 /* YBStarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9DF67CDFD800BB178CC4CAFAC33F9D /* YBStarView.m */; };
-		47A11533F55F296A326E7460C0C9B200 /* icon_yb_star_yellow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A71118A95D0E0E219549FAC0D145DBC /* icon_yb_star_yellow@2x.png */; };
-		4B36AE5A8563AF4CA82F85E4D109C3DF /* YBStarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EAFEC2406E1E954D3E0109271FB8624 /* YBStarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5A41C8864A742C260F09BC607E654EE5 /* icon_yb_star_gray@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68FE6023F8D0A8E649E2A051DCD41684 /* icon_yb_star_gray@3x.png */; };
+		478E3D6FFE11A24864AC74EAB9FB86D2 /* YBStarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D650BE7364D9C28A72DC5B9A38BA3AC /* YBStarView.m */; };
+		47A11533F55F296A326E7460C0C9B200 /* icon_yb_star_yellow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B12D01F186938B7548620F9ED08C13D9 /* icon_yb_star_yellow@2x.png */; };
+		4B36AE5A8563AF4CA82F85E4D109C3DF /* YBStarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 74E3EB17EDDDA5A4A5891E2262213CBE /* YBStarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5A41C8864A742C260F09BC607E654EE5 /* icon_yb_star_gray@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = EB6CCD70A9566B806987074794BCA95B /* icon_yb_star_gray@3x.png */; };
 		74E9BC9D9F4C10300BB6AA82B25926BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		935F5BD8834D0DF5C21C92294C17F9BF /* Pods-YBStarView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 358105DE629C49FA3332D15C92AAC06D /* Pods-YBStarView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C35EDB4D1AADCE17C4D160D7088B62D4 /* icon_yb_star_gray@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E8AC5424A44B85A681DA7454348DB85 /* icon_yb_star_gray@2x.png */; };
+		C35EDB4D1AADCE17C4D160D7088B62D4 /* icon_yb_star_gray@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 39E53A2EC4292F26F5F3D6139BDF3F24 /* icon_yb_star_gray@2x.png */; };
 		DABF322EE934ADCE638AF61BACC69062 /* YBStarView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 888712DCA0AA433D6A59336D465CE02B /* YBStarView.bundle */; };
 		DBF79965C0E6DAF9DE091940E4A76BBE /* Pods-YBStarView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C9C174946954A2A0DF589AA7B1E6D2A /* Pods-YBStarView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -50,45 +50,46 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00F3F8EAFBA165F19A6F2D1ACEE48182 /* YBStarView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YBStarView-dummy.m"; sourceTree = "<group>"; };
-		0EAFEC2406E1E954D3E0109271FB8624 /* YBStarView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YBStarView.h; path = YBStarView/Classes/YBStarView.h; sourceTree = "<group>"; };
+		054E83532C62489AFDBE349CF14A46C5 /* YBStarView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YBStarView.debug.xcconfig; sourceTree = "<group>"; };
 		111F680CBF2526FC6270758C3F63A8EB /* Pods-YBStarView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YBStarView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		1C58D3076DABCA28551263745E552C6B /* Pods-YBStarView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YBStarView_Tests.modulemap"; sourceTree = "<group>"; };
 		2272467A260A8E0E8BF099C38E1D3A40 /* Pods-YBStarView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YBStarView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YBStarView.xcconfig; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		358105DE629C49FA3332D15C92AAC06D /* Pods-YBStarView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YBStarView_Example-umbrella.h"; sourceTree = "<group>"; };
-		44F5F15B817363E4CDF076C84BBE5363 /* icon_yb_star_yellow@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_yellow@3x.png"; path = "YBStarView/Assets/icon_yb_star_yellow@3x.png"; sourceTree = "<group>"; };
+		39E53A2EC4292F26F5F3D6139BDF3F24 /* icon_yb_star_gray@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_gray@2x.png"; path = "YBStarView/Assets/icon_yb_star_gray@2x.png"; sourceTree = "<group>"; };
 		457E07957ACBD308728FECDFF3AF6DC4 /* Pods-YBStarView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YBStarView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		45DBD58562B1D8F9EDC1367F6D0CD942 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4B6FFDAE496C8EC2B0E849B23BC758C8 /* Pods-YBStarView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YBStarView_Example-Info.plist"; sourceTree = "<group>"; };
 		598DCD7592847DB18E668CC6D2CE301E /* Pods-YBStarView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YBStarView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		624BD51DD71FEFBA255507BFC47D9FAA /* ResourceBundle-YBStarView-YBStarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-YBStarView-YBStarView-Info.plist"; sourceTree = "<group>"; };
 		63608EB7A2FBBA2DCADF5D64862B1281 /* Pods_YBStarView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YBStarView_Tests.framework; path = "Pods-YBStarView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		68FE6023F8D0A8E649E2A051DCD41684 /* icon_yb_star_gray@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_gray@3x.png"; path = "YBStarView/Assets/icon_yb_star_gray@3x.png"; sourceTree = "<group>"; };
 		70EF2C9CFFC60D8FA24043D28CC1E264 /* Pods-YBStarView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YBStarView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		77884E1CE1EC1AAFDC76D810963C3415 /* YBStarView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YBStarView-prefix.pch"; sourceTree = "<group>"; };
-		7A71118A95D0E0E219549FAC0D145DBC /* icon_yb_star_yellow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_yellow@2x.png"; path = "YBStarView/Assets/icon_yb_star_yellow@2x.png"; sourceTree = "<group>"; };
+		74E3EB17EDDDA5A4A5891E2262213CBE /* YBStarView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YBStarView.h; path = YBStarView/Classes/YBStarView.h; sourceTree = "<group>"; };
+		794E0DF0AD5B9A978431730EDD1DD18B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7AA438B5EAF8001E3FCBCC3DDB6907F4 /* YBStarView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YBStarView-dummy.m"; sourceTree = "<group>"; };
+		7D650BE7364D9C28A72DC5B9A38BA3AC /* YBStarView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YBStarView.m; path = YBStarView/Classes/YBStarView.m; sourceTree = "<group>"; };
 		82057668EBFFC1BA37E75DB173CB6951 /* YBStarView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YBStarView.framework; path = YBStarView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		87F8F0210AD50E8385A2E738318BE8AD /* YBStarView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YBStarView-prefix.pch"; sourceTree = "<group>"; };
 		888712DCA0AA433D6A59336D465CE02B /* YBStarView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = YBStarView.bundle; path = "YBStarView-YBStarView.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8B9DF67CDFD800BB178CC4CAFAC33F9D /* YBStarView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YBStarView.m; path = YBStarView/Classes/YBStarView.m; sourceTree = "<group>"; };
+		88A406BAB19621A744A1834431A51571 /* YBStarView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YBStarView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8C5C667D7FC316470736791405E762B9 /* YBStarView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YBStarView.release.xcconfig; sourceTree = "<group>"; };
 		8C9C174946954A2A0DF589AA7B1E6D2A /* Pods-YBStarView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YBStarView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		8E8AC5424A44B85A681DA7454348DB85 /* icon_yb_star_gray@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_gray@2x.png"; path = "YBStarView/Assets/icon_yb_star_gray@2x.png"; sourceTree = "<group>"; };
-		8FBBE7BA05BB4DC1FAFD84B3A0F0EFA5 /* YBStarView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YBStarView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9456031A11C7E367F2109C2F51C090DE /* icon_yb_star_yellow@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_yellow@3x.png"; path = "YBStarView/Assets/icon_yb_star_yellow@3x.png"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AE3B08FF1A27992740C9A6F920BE6D40 /* Pods-YBStarView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YBStarView_Tests-Info.plist"; sourceTree = "<group>"; };
 		AF05CDC2B15E7C4948CF8F95B42464E6 /* Pods-YBStarView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YBStarView_Example.modulemap"; sourceTree = "<group>"; };
-		BDD2B8AD9EBC141C23B932E26F52E246 /* YBStarView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YBStarView.modulemap; sourceTree = "<group>"; };
-		C0BECD4847D6C95A66B51907BF10693D /* YBStarView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YBStarView-umbrella.h"; sourceTree = "<group>"; };
-		C3D9AEB3FB575D9B9C803678CA82BD3F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		D1382D636C69C74C81EC3E1200BE6D8E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B12D01F186938B7548620F9ED08C13D9 /* icon_yb_star_yellow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_yellow@2x.png"; path = "YBStarView/Assets/icon_yb_star_yellow@2x.png"; sourceTree = "<group>"; };
+		B40D627B430456EA18A9BA38D8E0C088 /* YBStarView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YBStarView-umbrella.h"; sourceTree = "<group>"; };
+		D32978FCB48F1836D21FAA804A8DE2B3 /* YBStarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YBStarView-Info.plist"; sourceTree = "<group>"; };
 		D43F7E44CF693B702FF2309F33AC53CC /* Pods-YBStarView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YBStarView_Tests-dummy.m"; sourceTree = "<group>"; };
 		D500E1ECEADC533389BDDC4F6425175B /* Pods_YBStarView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YBStarView_Example.framework; path = "Pods-YBStarView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D947A5AA75A3AE99A8C6ADA3F922761F /* Pods-YBStarView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YBStarView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DBB6336A334B88670AAD86844E6C2378 /* YBStarView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YBStarView.modulemap; sourceTree = "<group>"; };
 		E4C1DB5E0B98DA72B2E4054FC3C71879 /* Pods-YBStarView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YBStarView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E8FA78A9AC3E801F930597F9B03307D7 /* YBStarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YBStarView-Info.plist"; sourceTree = "<group>"; };
+		EB6CCD70A9566B806987074794BCA95B /* icon_yb_star_gray@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_yb_star_gray@3x.png"; path = "YBStarView/Assets/icon_yb_star_gray@3x.png"; sourceTree = "<group>"; };
 		EC7DB76ABE6D166BB4775ECB5A768D6C /* Pods-YBStarView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YBStarView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F3EF44F924C4A76B2B61A982B6BFA36A /* Pods-YBStarView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YBStarView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F527E885532A44F701267BE8923FC153 /* Pods-YBStarView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YBStarView_Example-dummy.m"; sourceTree = "<group>"; };
+		FD91CFEC790461CA79DB0781A50BB407 /* ResourceBundle-YBStarView-YBStarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-YBStarView-YBStarView-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,37 +127,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0F1F91E1B61AF858E09D461DC82171AC /* Support Files */ = {
+		4B6F9F018AEB03A32E0B19AE0186194B /* YBStarView */ = {
 			isa = PBXGroup;
 			children = (
-				624BD51DD71FEFBA255507BFC47D9FAA /* ResourceBundle-YBStarView-YBStarView-Info.plist */,
-				BDD2B8AD9EBC141C23B932E26F52E246 /* YBStarView.modulemap */,
-				2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */,
-				00F3F8EAFBA165F19A6F2D1ACEE48182 /* YBStarView-dummy.m */,
-				E8FA78A9AC3E801F930597F9B03307D7 /* YBStarView-Info.plist */,
-				77884E1CE1EC1AAFDC76D810963C3415 /* YBStarView-prefix.pch */,
-				C0BECD4847D6C95A66B51907BF10693D /* YBStarView-umbrella.h */,
+				74E3EB17EDDDA5A4A5891E2262213CBE /* YBStarView.h */,
+				7D650BE7364D9C28A72DC5B9A38BA3AC /* YBStarView.m */,
+				CF93F404B494656E602BA5BF1C7AF70D /* Pod */,
+				70ECF67022DE2ED473DD999ACE380A49 /* Resources */,
+				9DD429C47A947CA254121510343E5E79 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/YBStarView";
+			name = YBStarView;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		66936CE8134D12D9B49C21A782AFF37E /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B38D7319AEC9A520B23910C2C19B0EFB /* YBStarView */,
+				4B6F9F018AEB03A32E0B19AE0186194B /* YBStarView */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		7A96A7A86D35D8CAF2A1D0CC46E9A778 /* Pod */ = {
+		70ECF67022DE2ED473DD999ACE380A49 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D1382D636C69C74C81EC3E1200BE6D8E /* LICENSE */,
-				C3D9AEB3FB575D9B9C803678CA82BD3F /* README.md */,
-				8FBBE7BA05BB4DC1FAFD84B3A0F0EFA5 /* YBStarView.podspec */,
+				39E53A2EC4292F26F5F3D6139BDF3F24 /* icon_yb_star_gray@2x.png */,
+				EB6CCD70A9566B806987074794BCA95B /* icon_yb_star_gray@3x.png */,
+				B12D01F186938B7548620F9ED08C13D9 /* icon_yb_star_yellow@2x.png */,
+				9456031A11C7E367F2109C2F51C090DE /* icon_yb_star_yellow@3x.png */,
 			);
-			name = Pod;
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9DD429C47A947CA254121510343E5E79 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FD91CFEC790461CA79DB0781A50BB407 /* ResourceBundle-YBStarView-YBStarView-Info.plist */,
+				DBB6336A334B88670AAD86844E6C2378 /* YBStarView.modulemap */,
+				7AA438B5EAF8001E3FCBCC3DDB6907F4 /* YBStarView-dummy.m */,
+				D32978FCB48F1836D21FAA804A8DE2B3 /* YBStarView-Info.plist */,
+				87F8F0210AD50E8385A2E738318BE8AD /* YBStarView-prefix.pch */,
+				B40D627B430456EA18A9BA38D8E0C088 /* YBStarView-umbrella.h */,
+				054E83532C62489AFDBE349CF14A46C5 /* YBStarView.debug.xcconfig */,
+				8C5C667D7FC316470736791405E762B9 /* YBStarView.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/YBStarView";
 			sourceTree = "<group>";
 		};
 		A5A5049AAD2894DF085F221C7B995870 /* Pods-YBStarView_Example */ = {
@@ -174,19 +190,6 @@
 			);
 			name = "Pods-YBStarView_Example";
 			path = "Target Support Files/Pods-YBStarView_Example";
-			sourceTree = "<group>";
-		};
-		B38D7319AEC9A520B23910C2C19B0EFB /* YBStarView */ = {
-			isa = PBXGroup;
-			children = (
-				0EAFEC2406E1E954D3E0109271FB8624 /* YBStarView.h */,
-				8B9DF67CDFD800BB178CC4CAFAC33F9D /* YBStarView.m */,
-				7A96A7A86D35D8CAF2A1D0CC46E9A778 /* Pod */,
-				EC7C2CC50D06CA4F6C20F4B2E2CA7DBC /* Resources */,
-				0F1F91E1B61AF858E09D461DC82171AC /* Support Files */,
-			);
-			name = YBStarView;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		BA3AE6CA188091C05041A9324003411B /* Targets Support Files */ = {
@@ -215,6 +218,16 @@
 				EB0447F6D997B1CAC99E52C3A8FD366C /* Products */,
 				BA3AE6CA188091C05041A9324003411B /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		CF93F404B494656E602BA5BF1C7AF70D /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				794E0DF0AD5B9A978431730EDD1DD18B /* LICENSE */,
+				45DBD58562B1D8F9EDC1367F6D0CD942 /* README.md */,
+				88A406BAB19621A744A1834431A51571 /* YBStarView.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -250,17 +263,6 @@
 				82057668EBFFC1BA37E75DB173CB6951 /* YBStarView.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		EC7C2CC50D06CA4F6C20F4B2E2CA7DBC /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				8E8AC5424A44B85A681DA7454348DB85 /* icon_yb_star_gray@2x.png */,
-				68FE6023F8D0A8E649E2A051DCD41684 /* icon_yb_star_gray@3x.png */,
-				7A71118A95D0E0E219549FAC0D145DBC /* icon_yb_star_yellow@2x.png */,
-				44F5F15B817363E4CDF076C84BBE5363 /* icon_yb_star_yellow@3x.png */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -383,6 +385,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = EB0447F6D997B1CAC99E52C3A8FD366C /* Products */;
@@ -490,37 +493,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2051BBBA324D7253CD0F12BB71BE7DCB /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YBStarView/YBStarView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YBStarView/YBStarView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YBStarView/YBStarView.modulemap";
-				PRODUCT_MODULE_NAME = YBStarView;
-				PRODUCT_NAME = YBStarView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		2435FC4673884F7AD56E0BE35CE14114 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 70EF2C9CFFC60D8FA24043D28CC1E264 /* Pods-YBStarView_Tests.debug.xcconfig */;
@@ -553,6 +525,38 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		4359BF07FC3F50F5312B7C53B7A014A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C5C667D7FC316470736791405E762B9 /* YBStarView.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YBStarView/YBStarView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YBStarView/YBStarView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YBStarView/YBStarView.modulemap";
+				PRODUCT_MODULE_NAME = YBStarView;
+				PRODUCT_NAME = YBStarView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -613,6 +617,37 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
+		};
+		59E7B00265DE229866ACB7978023EE31 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 054E83532C62489AFDBE349CF14A46C5 /* YBStarView.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YBStarView/YBStarView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YBStarView/YBStarView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YBStarView/YBStarView.modulemap";
+				PRODUCT_MODULE_NAME = YBStarView;
+				PRODUCT_NAME = YBStarView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -678,12 +713,13 @@
 			};
 			name = Debug;
 		};
-		9324A250EEA91801F556F04C466766DB /* Release */ = {
+		8EACAE4FEF9ABB4434542A582C2D7D51 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */;
+			baseConfigurationReference = 8C5C667D7FC316470736791405E762B9 /* YBStarView.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/YBStarView";
+				IBSC_MODULE = YBStarView;
 				INFOPLIST_FILE = "Target Support Files/YBStarView/ResourceBundle-YBStarView-YBStarView-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = YBStarView;
@@ -762,22 +798,6 @@
 			};
 			name = Release;
 		};
-		B6877E608E64B292C4DC9DE81926ECE1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/YBStarView";
-				INFOPLIST_FILE = "Target Support Files/YBStarView/ResourceBundle-YBStarView-YBStarView-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = YBStarView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
 		C623C17F7BF7E548DC8159A40D4B27B1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2272467A260A8E0E8BF099C38E1D3A40 /* Pods-YBStarView_Example.debug.xcconfig */;
@@ -811,37 +831,22 @@
 			};
 			name = Debug;
 		};
-		DCEC669F2A2AAF1FD1A166B2BB8411DD /* Release */ = {
+		E71C5111ECEE670A212D89838ED546AB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A9A9EE2A3E1C7C3C987C2C796A7E75A /* YBStarView.xcconfig */;
+			baseConfigurationReference = 054E83532C62489AFDBE349CF14A46C5 /* YBStarView.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YBStarView/YBStarView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YBStarView/YBStarView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/YBStarView";
+				IBSC_MODULE = YBStarView;
+				INFOPLIST_FILE = "Target Support Files/YBStarView/ResourceBundle-YBStarView-YBStarView-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YBStarView/YBStarView.modulemap";
-				PRODUCT_MODULE_NAME = YBStarView;
 				PRODUCT_NAME = YBStarView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -849,8 +854,8 @@
 		01560B32B37563AD90E312F1AB7C31AF /* Build configuration list for PBXNativeTarget "YBStarView-YBStarView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B6877E608E64B292C4DC9DE81926ECE1 /* Debug */,
-				9324A250EEA91801F556F04C466766DB /* Release */,
+				E71C5111ECEE670A212D89838ED546AB /* Debug */,
+				8EACAE4FEF9ABB4434542A582C2D7D51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -876,8 +881,8 @@
 		8E1A5D2A651369A6CDE2153A00CE13B6 /* Build configuration list for PBXNativeTarget "YBStarView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2051BBBA324D7253CD0F12BB71BE7DCB /* Debug */,
-				DCEC669F2A2AAF1FD1A166B2BB8411DD /* Release */,
+				59E7B00265DE229866ACB7978023EE31 /* Debug */,
+				4359BF07FC3F50F5312B7C53B7A014A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
