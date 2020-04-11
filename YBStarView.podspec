@@ -8,13 +8,16 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YBStarView'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = '星星评分视图'
-  s.description      = '星星评分视图'
+  s.description  = <<-DESC
+         星星评分视图
+  DESC
   s.homepage         = 'https://github.com/YangYiBo23/YBStarView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yyb' => 'yangyibo93@gmail.com' }
+  s.author           = { 'yangyibo23' => 'yangyibo93@gmail.com' }
   s.source           = { :git => 'https://github.com/YangYiBo23/YBStarView.git', :tag => s.version.to_s }
+  
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'YBStarView/Classes/**/*'
